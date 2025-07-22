@@ -1,5 +1,5 @@
 
-public class Main {
+public class longest_substring_reverse {
     public static void main(String[] args) {
 
         int res = 0;
